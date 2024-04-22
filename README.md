@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> estudiando ingeniería en sistemas de información
-
-> aprendiendo a usar git
 
 ![hormero argentina](https://i.pinimg.com/564x/cd/aa/a5/cdaaa5177c84362c0e94a235994ef1bd.jpg)
 
