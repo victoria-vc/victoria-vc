@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![meme harry potter](https://pbs.twimg.com/media/EXhl3tQWoAQOOLG.jpg)
+![hormero argentina](https://i.pinimg.com/564x/cd/aa/a5/cdaaa5177c84362c0e94a235994ef1bd.jpg)
