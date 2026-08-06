@@ -1,9 +1,15 @@
-## About Me 
+# About Me 
 
 Hello! I'm Victoria Castagno, an Information Systems Engineering student at the National Technological University (UTN FRBA) in Buenos Aires, Argentina.
 This GitHub is where I share university projects, coursework, and personal projects as I continue learning and growing as a developer.
 
 ´´´
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-castagno-691676233/)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/696520155513094194)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
