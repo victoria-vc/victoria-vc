@@ -16,7 +16,7 @@ This GitHub is where I share university projects, coursework, and personal proje
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![LOGO!](https://img.shields.io/badge/LOGO!_Soft_Comfort-009999?style=for-the-badge)
+![LOGO!](https://img.shields.io/badge/LOGO!-009999?style=for-the-badge)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
